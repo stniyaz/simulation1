@@ -1,0 +1,13 @@
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\bin\Debug\net8.0\Hackathon.Core.deps.json
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\bin\Debug\net8.0\Hackathon.Core.dll
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\bin\Debug\net8.0\Hackathon.Core.pdb
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.AssemblyInfoInputs.cache
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.AssemblyInfo.cs
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.csproj.CoreCompileInputs.cache
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.dll
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\refint\Hackathon.Core.dll
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.pdb
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\ref\Hackathon.Core.dll
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.csproj.AssemblyReference.cache
+C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.sourcelink.json
