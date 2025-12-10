@@ -12,8 +12,8 @@ public class AppUserConfiguration : IEntityTypeConfiguration<AppUser>
                .IsRequired()
                .HasMaxLength(100);
 
-        builder.Property(x => x.FacePersonId)
-               .IsRequired(false);
+        //builder.Property(x => x.FacePersonId)
+        //       .IsRequired(false);
 
         builder.Property(x => x.ProfileImageUrl)
                .HasMaxLength(500)
