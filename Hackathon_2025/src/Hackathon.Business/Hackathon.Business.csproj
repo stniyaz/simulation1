@@ -15,4 +15,8 @@
     <ProjectReference Include="..\Hackathon.Data\Hackathon.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Helpers\Enums\" />
+  </ItemGroup>
+
 </Project>
