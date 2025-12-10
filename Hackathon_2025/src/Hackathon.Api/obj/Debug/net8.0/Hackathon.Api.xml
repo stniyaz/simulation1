@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hackathon.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Hackathon.Api.Controllers.CategoryController">
+            <summary>
+            Manages API endpoints for category operations.
+            </summary>
+        </member>
+        <member name="M:Hackathon.Api.Controllers.CategoryController.#ctor(Hackathon.Business.Services.Interfaces.ICategoryService)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Hackathon.Api.Controllers.CategoryController"/> class.
+            </summary>
+            <param name="categoryService">Service providing business logic for categories.</param>
+        </member>
+        <member name="M:Hackathon.Api.Controllers.CategoryController.GetAll">
+            <summary>
+            Retrieves all categories.
+            </summary>
+            <returns>A list of categories.</returns>
+            <response code="200">Successfully retrieved categories.</response>
+        </member>
+        <member name="M:Hackathon.Api.Controllers.CategoryController.GetById(System.Guid)">
+            <summary>
+            Retrieves a category by its ID.
+            </summary>
+            <param name="id">The category ID.</param>
+            <returns>The category details.</returns>
+            <response code="200">Successfully retrieved the category.</response>
+            <response code="404">Category not found.</response>
+        </member>
+        <member name="M:Hackathon.Api.Controllers.CategoryController.Create(Hackathon.Business.Dtos.Category.CategoryCreateDto)">
+            <summary>
+            Creates a new category.
+            </summary>
+            <param name="dto">Category creation data transfer object.</param>
+            <returns>No content.</returns>
+            <response code="200">Category successfully created.</response>
+            <response code="409">Category with the same name already exists.</response>
+        </member>
+        <member name="M:Hackathon.Api.Controllers.CategoryController.Update(Hackathon.Business.Dtos.Category.CategoryUpdateDto)">
+            <summary>
+            Updates an existing category.
+            </summary>
+            <param name="dto">Category update data transfer object.</param>
+            <returns>No content.</returns>
+            <response code="204">Category successfully updated.</response>
+            <response code="404">Category not found.</response>
+            <response code="409">Category name conflicts with another existing category.</response>
+        </member>
+        <member name="M:Hackathon.Api.Controllers.CategoryController.Delete(System.Guid)">
+            <summary>
+            Deletes a category by its ID.
+            </summary>
+            <param name="id">The category ID.</param>
+            <returns>No content.</returns>
+            <response code="204">Category successfully deleted.</response>
+            <response code="404">Category not found.</response>
+        </member>
+    </members>
+</doc>
