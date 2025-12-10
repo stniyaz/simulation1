@@ -1,4 +1,4 @@
-using Hackathon.Business.Services;
+using Hackathon.Business;
 using Hackathon.Core.Entities;
 using Hackathon.Data;
 using Hackathon.Data.DAL;
@@ -28,7 +28,7 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
 
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("deploy"));
 });
 
 builder.Services.AddAuthentication(options =>
@@ -68,15 +68,15 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-app.UseMiddleware<Hackathon.Api.Middlewares.GlobalExceptionMiddleware>();
+app.UseMiddleware<Hackathon.Api.Middlewares.GlobalHandleException>();
 app.UseCors("AllowAll");
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+
+app.UseSwagger();
+app.UseSwaggerUI();
+
+
 
 app.UseHttpsRedirection();
 

@@ -16,3 +16,21 @@ C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Data\obj\De
 C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Data\bin\Debug\net8.0\Hackathon.Data.runtimeconfig.json
 C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.sourcelink.json
 C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.genruntimeconfig.cache
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\bin\Debug\net8.0\Hackathon.Data.deps.json
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\bin\Debug\net8.0\Hackathon.Data.runtimeconfig.json
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\bin\Debug\net8.0\Hackathon.Data.dll
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\bin\Debug\net8.0\Hackathon.Data.pdb
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\bin\Debug\net8.0\Hackathon.Core.dll
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\bin\Debug\net8.0\Hackathon.Core.pdb
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.csproj.AssemblyReference.cache
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.AssemblyInfoInputs.cache
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.AssemblyInfo.cs
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.sourcelink.json
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackatho.66B2D578.Up2Date
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.dll
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\refint\Hackathon.Data.dll
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.pdb
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\Hackathon.Data.genruntimeconfig.cache
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Data\obj\Debug\net8.0\ref\Hackathon.Data.dll

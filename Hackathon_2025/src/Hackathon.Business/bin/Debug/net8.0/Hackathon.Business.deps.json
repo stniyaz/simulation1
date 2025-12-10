@@ -614,6 +614,7 @@
       },
       "Hackathon.Core/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.22",
           "Microsoft.Extensions.Identity.Stores": "8.0.22"
         },
         "runtime": {

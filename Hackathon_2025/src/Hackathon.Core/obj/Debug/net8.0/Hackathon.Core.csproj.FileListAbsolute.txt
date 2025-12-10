@@ -11,3 +11,16 @@ C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\De
 C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\ref\Hackathon.Core.dll
 C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.csproj.AssemblyReference.cache
 C:\Users\stnv13x8\Desktop\hackathon2025\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.sourcelink.json
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\bin\Debug\net8.0\Hackathon.Core.deps.json
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\bin\Debug\net8.0\Hackathon.Core.dll
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\bin\Debug\net8.0\Hackathon.Core.pdb
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.csproj.AssemblyReference.cache
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.AssemblyInfoInputs.cache
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.AssemblyInfo.cs
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.sourcelink.json
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.dll
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\refint\Hackathon.Core.dll
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\Hackathon.Core.pdb
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Core\obj\Debug\net8.0\ref\Hackathon.Core.dll

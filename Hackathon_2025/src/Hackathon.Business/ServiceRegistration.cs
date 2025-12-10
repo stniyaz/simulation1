@@ -2,7 +2,7 @@
 using Hackathon.Business.Services.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Hackathon.Business.Services;
+namespace Hackathon.Business;
 
 public static class ServiceRegistration
 {
