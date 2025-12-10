@@ -111,4 +111,10 @@ public class Repository<TEntity> : IRepository<TEntity> where TEntity : BaseEnti
         entity.UpdatedDate = DateTime.UtcNow;
 
     }
+
+    public async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+    {
+        return await _context.SaveChangesAsync(cancellationToken);
+    }
+
 }

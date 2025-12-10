@@ -34,4 +34,6 @@ public interface IRepository<TEntity> where TEntity : BaseEntity, new()
     Task<TEntity> CreateAsync(TEntity entity);
     Task UpdateAsync(TEntity entity);
     void Delete(TEntity entity);
+
+    Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
 }

@@ -9,5 +9,8 @@ public static class RepositoryRegistration
     public static void AddRepositories(this IServiceCollection services)
     {
         services.AddScoped<ICustomerRepository, CustomerRepository>();
+        //services.AddScoped<IOrderRepository, OrderRepository>();
+        //services.AddScoped<IPaymentRepository, PaymentRepository>();
+        services.AddScoped<ICategoryRepository, CategoryRepository>();
     }
 }

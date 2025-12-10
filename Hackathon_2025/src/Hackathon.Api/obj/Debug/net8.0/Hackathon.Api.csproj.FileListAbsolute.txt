@@ -318,3 +318,6 @@ C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hack
 C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Api\obj\Debug\net8.0\Hackathon.Api.pdb
 C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Api\obj\Debug\net8.0\Hackathon.Api.genruntimeconfig.cache
 C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Api\obj\Debug\net8.0\ref\Hackathon.Api.dll
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Api\bin\Debug\net8.0\Hackathon.Api.xml
+C:\Users\Ravan Guliyev\Desktop\Hackathon2025\simulation1\Hackathon_2025\src\Hackathon.Api\obj\Debug\net8.0\Hackathon.Api.xml

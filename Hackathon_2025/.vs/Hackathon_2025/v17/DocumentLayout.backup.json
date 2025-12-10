@@ -3,16 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161919_AddSomeTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Hackathon.Data\\Migrations\\20251210161919_AddSomeTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|solutionrelative:src\\hackathon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.api\\hackathon.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|solutionrelative:src\\hackathon.api\\hackathon.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|solutionrelative:src\\hackathon.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|solutionrelative:src\\hackathon.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.business\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.business\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.business\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.business\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\repositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\repositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.business\\validations\\category\\categoryupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\validations\\category\\categoryupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.business\\validations\\authvalidations\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\validations\\authvalidations\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\repositories\\common\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\repositories\\common\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.core\\interfaces\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\interfaces\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161715_AddSomeTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +107,12 @@
       "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161552_AddSomeTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Hackathon.Data\\Migrations\\20251210161552_AddSomeTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|solutionrelative:src\\hackathon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -63,44 +127,12 @@
       "RelativeMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|solutionrelative:src\\hackathon.api\\hackathon.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\repositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\repositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\repositories\\common\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\repositories\\common\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.core\\interfaces\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\interfaces\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.business\\validations\\authvalidations\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\validations\\authvalidations\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|solutionrelative:src\\hackathon.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.core\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C73B2FF-8487-4D8E-ACFA-F7B7C4F7F2A9}|src\\Hackathon.Core\\Hackathon.Core.csproj|solutionrelative:src\\hackathon.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{643DE299-F809-4DFE-A148-CD91143B2D2A}|src\\Hackathon.Api\\Hackathon.Api.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,8 +147,8 @@
       "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\helpers\\exceptions\\entityexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.business\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC62694C-68CC-4756-B080-40FC2D948EAD}|src\\Hackathon.Business\\Hackathon.Business.csproj|solutionrelative:src\\hackathon.business\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|c:\\users\\ravan guliyev\\desktop\\hackathon2025\\simulation1\\hackathon_2025\\src\\hackathon.data\\migrations\\20251210161919_addsometables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB268D9-675E-4781-9B51-E704A7F0E0E4}|src\\Hackathon.Data\\Hackathon.Data.csproj|solutionrelative:src\\hackathon.data\\migrations\\20251210161919_addsometables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,102 +158,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251210161919_AddSomeTables.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161919_AddSomeTables.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Migrations\\20251210161919_AddSomeTables.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161919_AddSomeTables.cs",
-              "RelativeToolTip": "src\\Hackathon.Data\\Migrations\\20251210161919_AddSomeTables.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGAAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:19:19.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20251210161715_AddSomeTables.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161715_AddSomeTables.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Migrations\\20251210161715_AddSomeTables.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161715_AddSomeTables.cs",
-              "RelativeToolTip": "src\\Hackathon.Data\\Migrations\\20251210161715_AddSomeTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "src\\Hackathon.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:17:15.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserFaceEmbedding.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\UserFaceEmbedding.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\UserFaceEmbedding.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\UserFaceEmbedding.cs",
-              "RelativeToolTip": "src\\Hackathon.Core\\Entities\\UserFaceEmbedding.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:16:22.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Payment.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\Payment.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Payment.cs",
-              "RelativeToolTip": "src\\Hackathon.Core\\Entities\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:16:19.981Z",
+              "WhenOpened": "2025-12-10T16:55:07.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Order.cs",
-              "RelativeToolTip": "src\\Hackathon.Core\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Business\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "src\\Hackathon.Business\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:16:11.107Z",
+              "WhenOpened": "2025-12-10T16:31:48.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Business\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "src\\Hackathon.Business\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:21:32.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Business\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "src\\Hackathon.Business\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:39:47.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Business\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\Hackathon.Business\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:38:18.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Dtos\\Category\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Business\\Dtos\\Category\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Dtos\\Category\\CategoryCreateDto.cs",
+              "RelativeToolTip": "src\\Hackathon.Business\\Dtos\\Category\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:37:14.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Program.cs",
+              "RelativeToolTip": "src\\Hackathon.Api\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAawGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:26:30.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hackathon.Api",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Hackathon.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Hackathon.Api\\Hackathon.Api.csproj",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Hackathon.Api.csproj",
+              "RelativeToolTip": "src\\Hackathon.Api\\Hackathon.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T16:56:23.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Controllers\\AuthsController.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Api\\Controllers\\AuthsController.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Controllers\\AuthsController.cs",
+              "RelativeToolTip": "src\\Hackathon.Api\\Controllers\\AuthsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:35:50.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositoryRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\RepositoryRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Data\\RepositoryRegistration.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\RepositoryRegistration.cs",
+              "RelativeToolTip": "src\\Hackathon.Data\\RepositoryRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:36:43.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Validations\\Category\\CategoryUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Business\\Validations\\Category\\CategoryUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Validations\\Category\\CategoryUpdateDtoValidator.cs",
+              "RelativeToolTip": "src\\Hackathon.Business\\Validations\\Category\\CategoryUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:38:43.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "src\\Hackathon.Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:29:45.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Category.cs",
               "RelativeToolTip": "src\\Hackathon.Core\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T16:16:14.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\MenuItem.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\MenuItem.cs",
-              "RelativeToolTip": "src\\Hackathon.Core\\Entities\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAsAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Validations\\AuthValidations\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Business\\Validations\\AuthValidations\\RegisterDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Validations\\AuthValidations\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "src\\Hackathon.Business\\Validations\\AuthValidations\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:01:01.485Z",
+              "WhenOpened": "2025-12-10T15:29:07.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "src\\Hackathon.Core\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:29:15.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\AppUser.cs",
@@ -234,201 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppUserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Configurations\\AppUserConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Configurations\\AppUserConfiguration.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Configurations\\AppUserConfiguration.cs",
-              "RelativeToolTip": "src\\Hackathon.Data\\Configurations\\AppUserConfiguration.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:39:24.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20251210161552_AddSomeTables.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161552_AddSomeTables.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Migrations\\20251210161552_AddSomeTables.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161552_AddSomeTables.cs",
-              "RelativeToolTip": "src\\Hackathon.Data\\Migrations\\20251210161552_AddSomeTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:15:52.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "src\\Hackathon.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\appsettings.Development.json",
-              "RelativeToolTip": "src\\Hackathon.Api\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-10T15:40:55.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Hackathon.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\appsettings.json",
-              "RelativeToolTip": "src\\Hackathon.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-10T14:26:37.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Hackathon.Api",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Hackathon.Api.csproj",
-              "RelativeDocumentMoniker": "src\\Hackathon.Api\\Hackathon.Api.csproj",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Hackathon.Api.csproj",
-              "RelativeToolTip": "src\\Hackathon.Api\\Hackathon.Api.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-10T15:36:19.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Program.cs",
-              "RelativeToolTip": "src\\Hackathon.Api\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T14:26:30.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Data\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "src\\Hackathon.Data\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA8AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:17:59.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RepositoryRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\RepositoryRegistration.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Data\\RepositoryRegistration.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\RepositoryRegistration.cs",
-              "RelativeToolTip": "src\\Hackathon.Data\\RepositoryRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:36:43.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "src\\Hackathon.Data\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:18:05.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Repositories\\Common\\Repository.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Repositories\\Common\\Repository.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Repositories\\Common\\Repository.cs",
-              "RelativeToolTip": "src\\Hackathon.Data\\Repositories\\Common\\Repository.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:19:30.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Interfaces\\Common\\IRepository.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Interfaces\\Common\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Interfaces\\Common\\IRepository.cs",
-              "RelativeToolTip": "src\\Hackathon.Core\\Interfaces\\Common\\IRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:18:20.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RegisterDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Validations\\AuthValidations\\RegisterDtoValidator.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Business\\Validations\\AuthValidations\\RegisterDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Validations\\AuthValidations\\RegisterDtoValidator.cs",
-              "RelativeToolTip": "src\\Hackathon.Business\\Validations\\AuthValidations\\RegisterDtoValidator.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA7wBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:29:07.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "src\\Hackathon.Core\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:17:42.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Business\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\ServiceRegistration.cs",
-              "RelativeToolTip": "src\\Hackathon.Business\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T14:38:18.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Interfaces\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Interfaces\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Interfaces\\ICustomerRepository.cs",
-              "RelativeToolTip": "src\\Hackathon.Core\\Interfaces\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:18:17.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\Customer.cs",
@@ -441,33 +383,236 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251210161919_AddSomeTables.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161919_AddSomeTables.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Migrations\\20251210161919_AddSomeTables.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161919_AddSomeTables.cs",
+              "RelativeToolTip": "src\\Hackathon.Data\\Migrations\\20251210161919_AddSomeTables.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:19:19.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251210161715_AddSomeTables.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161715_AddSomeTables.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Migrations\\20251210161715_AddSomeTables.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161715_AddSomeTables.cs",
+              "RelativeToolTip": "src\\Hackathon.Data\\Migrations\\20251210161715_AddSomeTables.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:17:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "src\\Hackathon.Data\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:18:05.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Repositories\\Common\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Repositories\\Common\\Repository.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Repositories\\Common\\Repository.cs",
+              "RelativeToolTip": "src\\Hackathon.Data\\Repositories\\Common\\Repository.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAqwHUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:19:30.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Interfaces\\Common\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Interfaces\\Common\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Interfaces\\Common\\IRepository.cs",
+              "RelativeToolTip": "src\\Hackathon.Core\\Interfaces\\Common\\IRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:18:20.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserFaceEmbedding.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\UserFaceEmbedding.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\UserFaceEmbedding.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\UserFaceEmbedding.cs",
+              "RelativeToolTip": "src\\Hackathon.Core\\Entities\\UserFaceEmbedding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:16:22.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Payment.cs",
+              "RelativeToolTip": "src\\Hackathon.Core\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:16:19.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Order.cs",
+              "RelativeToolTip": "src\\Hackathon.Core\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:16:11.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\MenuItem.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\MenuItem.cs",
+              "RelativeToolTip": "src\\Hackathon.Core\\Entities\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:01:01.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Configurations\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Configurations\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Configurations\\AppUserConfiguration.cs",
+              "RelativeToolTip": "src\\Hackathon.Data\\Configurations\\AppUserConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:39:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251210161552_AddSomeTables.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161552_AddSomeTables.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Data\\Migrations\\20251210161552_AddSomeTables.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\Migrations\\20251210161552_AddSomeTables.cs",
+              "RelativeToolTip": "src\\Hackathon.Data\\Migrations\\20251210161552_AddSomeTables.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:15:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Hackathon.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Hackathon.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-10T15:40:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Hackathon.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Hackathon.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-10T14:26:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Hackathon.Api",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Hackathon.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Hackathon.Api\\Hackathon.Api.csproj",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Hackathon.Api.csproj",
+              "RelativeToolTip": "src\\Hackathon.Api\\Hackathon.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T15:36:19.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Hackathon.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:17:59.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Hackathon.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:17:42.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Hackathon.Core\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Core\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "src\\Hackathon.Core\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:18:17.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "GlobalExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "src\\Hackathon.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
               "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
               "RelativeToolTip": "src\\Hackathon.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T15:29:26.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AuthsController.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Controllers\\AuthsController.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Api\\Controllers\\AuthsController.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Api\\Controllers\\AuthsController.cs",
-              "RelativeToolTip": "src\\Hackathon.Api\\Controllers\\AuthsController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T14:35:50.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "EntityNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Helpers\\Exceptions\\EntityNotFoundException.cs",
               "RelativeDocumentMoniker": "src\\Hackathon.Business\\Helpers\\Exceptions\\EntityNotFoundException.cs",
@@ -480,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "EntityExistException.cs",
               "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Helpers\\Exceptions\\EntityExistException.cs",
               "RelativeDocumentMoniker": "src\\Hackathon.Business\\Helpers\\Exceptions\\EntityExistException.cs",
@@ -489,19 +634,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T15:34:48.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Services\\Implementations\\AuthService.cs",
-              "RelativeDocumentMoniker": "src\\Hackathon.Business\\Services\\Implementations\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Hackathon2025\\simulation1\\Hackathon_2025\\src\\Hackathon.Business\\Services\\Implementations\\AuthService.cs",
-              "RelativeToolTip": "src\\Hackathon.Business\\Services\\Implementations\\AuthService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T15:21:32.79Z",
               "EditorCaption": ""
             }
           ]
